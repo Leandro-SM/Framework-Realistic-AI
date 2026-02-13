@@ -1,0 +1,47 @@
+{
+  "scene": {
+    "camera_position": "handheld selfie perspective",
+    "framing": "face centered with environmental context visible",
+    "distance_from_subject": "close range arm length"
+  },
+  "subject": {
+    "expression": "confident natural smile",
+    "eye_contact": "direct into lens",
+    "movement": "subtle natural arm movement",
+    "pose": "slightly leaning toward camera"
+  },
+  "camera": {
+    "lens": "18mm ultra wide lens",
+    "sensor": "full frame equivalent",
+    "aperture": "f2.8",
+    "depth_of_field": "moderate",
+    "distortion": "natural wide angle edge distortion",
+    "resolution": "4k",
+    "frame_rate": "24fps cinematic",
+    "motion_blur": "natural realistic"
+  },
+  "lighting": {
+    "primary_light": "soft diffused key light from front",
+    "secondary_light": "subtle rim light separation",
+    "color_temperature": "neutral balanced 5200K",
+    "contrast": "commercial balanced contrast",
+    "shadow_detail": "controlled soft shadows"
+  },
+  "environment": {
+    "background_depth": "visible but slightly softened",
+    "location": "modern lifestyle setting",
+    "practical_lights": "subtle visible background lights"
+  },
+  "effects": {
+    "skin_texture": "natural detailed skin",
+    "imperfections": "subtle realistic skin detail",
+    "dynamic_range": "high",
+    "grain": "subtle cinematic grain"
+  },
+  "style": {
+    "type": "high budget global brand commercial",
+    "color_grading": "clean premium commercial LUT",
+    "highlight_rolloff": "smooth",
+    "brand_feel": "modern energetic premium"
+  }
+}
