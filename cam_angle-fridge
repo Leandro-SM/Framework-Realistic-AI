@@ -1,0 +1,49 @@
+{
+  "scene": {
+    "camera_position": "inside refrigerator",
+    "perspective": "point of view from inside fridge looking outward",
+    "framing": "foreground objects partially blocking frame edges"
+  },
+  "subject": {
+    "action": "person opening fridge door",
+    "expression": "soft surprise or focused selection",
+    "movement": "reaching hand toward camera"
+  },
+  "camera": {
+    "lens": "24mm wide lens",
+    "sensor": "full frame",
+    "aperture": "f2.8",
+    "depth_of_field": "moderate shallow",
+    "resolution": "4k",
+    "frame_rate": "24fps",
+    "motion_blur": "natural cinematic"
+  },
+  "lighting": {
+    "primary_source": "refrigerator internal cool light",
+    "color_temperature": "6000K",
+    "secondary_light": "soft ambient kitchen light",
+    "contrast": "balanced commercial lighting",
+    "shadow_detail": "soft controlled shadows"
+  },
+  "environment": {
+    "foreground_elements": [
+      "milk bottle slightly out of focus",
+      "vegetables with condensation",
+      "glass bottle with water droplets",
+      "cold mist effect"
+    ],
+    "background": "modern clean kitchen softly blurred"
+  },
+  "effects": {
+    "condensation_on_lens": "subtle",
+    "cold_vapor": "light realistic mist",
+    "reflections": "realistic glass reflections",
+    "grain": "subtle cinematic grain"
+  },
+  "style": {
+    "type": "high budget commercial",
+    "color_grading": "cool tones inside fridge, warm kitchen contrast",
+    "dynamic_range": "high",
+    "skin_texture": "natural realistic detail"
+  }
+}
