@@ -1,0 +1,65 @@
+{
+  "scene": {
+    "environment": "vast untouched snowfield in high-altitude alpine location",
+    "weather": "clear sky, no active snowfall",
+    "atmosphere": "crisp dry air with soft atmospheric haze",
+    "terrain": "smooth sculpted snow dunes with subtle wind patterns",
+    "background_elements": [
+      "minimal distant mountain silhouettes",
+      "clean horizon line",
+      "no trees, no distractions"
+    ]
+  },
+  "subject": {
+    "description": "high-fashion model standing still in the snow",
+    "pose": "strong upright posture, relaxed shoulders, chin slightly elevated",
+    "expression": "calm, confident, emotionally neutral",
+    "wardrobe": {
+      "jacket": "oversized luxury matte puffer jacket with precise stitching and architectural silhouette",
+      "pants": "tailored technical snow trousers",
+      "boots": "minimalist snow boots with clean design",
+      "goggles": "sleek monochromatic high-tech goggles with soft reflective lens"
+    },
+    "movement": "almost static, subtle fabric movement from light wind"
+  },
+  "camera": {
+    "style": "editorial fashion photography",
+    "resolution": "8K ultra detailed",
+    "lens": "medium telephoto 70mm",
+    "framing": "centered composition with strong negative space",
+    "movement": "mostly static with slow cinematic push-in",
+    "depth_of_field": "moderate depth, background softly blurred but recognizable"
+  },
+  "lighting": {
+    "primary": "diffused natural daylight",
+    "quality": "soft, shadowless, high-end fashion lighting",
+    "color_temperature": "cool neutral whites with subtle blue undertones",
+    "contrast": "controlled low contrast for premium softness",
+    "snow_reflection": "natural bounce light illuminating lower body"
+  },
+  "color_palette": {
+    "dominant": "white and off-white tones",
+    "accents": "deep black or muted metallic silver",
+    "grading": "clean luxury color grading, slightly desaturated, magazine-ready"
+  },
+  "visual_focus": {
+    "texture_detail": [
+      "fine stitching on jacket",
+      "micro fabric texture",
+      "subtle snow grain detail",
+      "light reflection on goggles lens"
+    ],
+    "aesthetic": "minimalist, refined, architectural"
+  },
+  "brand_feel": {
+    "mood": "quiet luxury",
+    "emotion": "elegant resilience",
+    "energy": "calm, powerful, controlled"
+  },
+  "rendering": {
+    "photorealism": "ultra realistic",
+    "dynamic_range": "soft HDR",
+    "finish": "high-end fashion magazine quality",
+    "film_grain": "very subtle fine grain"
+  }
+}
