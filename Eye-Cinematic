@@ -1,0 +1,63 @@
+{
+  "model": "gemini-2.5-flash-image",
+  "task_type": "generation",
+  "priority": {
+    "primary": "Ultra-detailed close-up image of a human eye",
+    "secondary": "Capture realistic iris texture, eyelashes, and natural skin detail"
+  },
+  "task": "generate_image",
+  "subject": {
+    "main": "human eye",
+    "attributes": {
+      "physical": "green-hazel iris with complex radial patterns, dark pupil, visible sclera veins",
+      "pose": "eye open, looking straight toward the camera",
+      "expression": "neutral and calm"
+    }
+  },
+  "environment": {
+    "setting": "macro photography studio",
+    "time": "controlled lighting session",
+    "weather": "not applicable",
+    "lighting": {
+      "type": "artificial",
+      "direction": "front and slightly top",
+      "quality": "soft, even lighting with a subtle catchlight reflection in the pupil"
+    }
+  },
+  "style": {
+    "artistic": "photorealistic",
+    "camera": {
+      "angle": "eye-level extreme close-up",
+      "lens": "macro",
+      "aperture": "shallow depth of field"
+    },
+    "mood": "clean, intimate, highly realistic",
+    "color_palette": "natural skin tones with green and amber iris hues"
+  },
+  "technical": {
+    "resolution": "high",
+    "aspect_ratio": "9:16",
+    "quality": "maximum"
+  },
+  "constraints": {
+    "framing": "extreme close-up with the eye centered vertically and horizontally",
+    "focus": "sharp focus on iris and eyelashes, soft falloff on surrounding skin",
+    "exclusions": [
+      "heavy makeup",
+      "eyeliner",
+      "mascara clumps",
+      "retouching",
+      "text",
+      "logos",
+      "watermarks"
+    ]
+  },
+  "context_awareness": {
+    "real_world_logic": true,
+    "physics_accurate": true
+  },
+  "output_specs": {
+    "use_case": "eye macro realism study, iris detail documentation, optometric visuals",
+    "success_criteria": "clearly visible iris patterns, natural eyelashes, and realistic skin around the eye"
+  }
+}
