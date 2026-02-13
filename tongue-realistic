@@ -1,0 +1,65 @@
+{
+  "model": "gemini-2.5-flash-image",
+  "task_type": "generation",
+  "priority": {
+    "primary": "Ultra-macro photorealistic image of a human tongue",
+    "secondary": "Emphasize organic texture and natural moisture"
+  },
+  "task": "generate_image",
+  "subject": {
+    "main": "human tongue",
+    "attributes": {
+      "physical": "pinkish surface with clearly visible taste buds, granular texture, natural moisture",
+      "pose": "tongue extended forward, slightly curved",
+      "expression": "neutral, non-sexualized"
+    }
+  },
+  "environment": {
+    "setting": "macro photography studio",
+    "time": "controlled session",
+    "weather": "not applicable",
+    "lighting": {
+      "type": "artificial",
+      "direction": "side and top",
+      "quality": "soft but directional, highlighting surface texture"
+    }
+  },
+  "style": {
+    "artistic": "photorealistic",
+    "camera": {
+      "angle": "extreme close-up",
+      "lens": "macro",
+      "aperture": "very shallow depth of field"
+    },
+    "mood": "clinical, organic, highly detailed",
+    "color_palette": "natural pinks and warm flesh tones"
+  },
+  "technical": {
+    "resolution": "high",
+    "aspect_ratio": "9:16",
+    "quality": "maximum"
+  },
+  "constraints": {
+    "framing": "extreme macro crop, tongue filling most of the vertical frame",
+    "focus": "sharp on papillae and surface moisture, soft falloff toward edges",
+    "exclusions": [
+      "lips",
+      "teeth",
+      "full face",
+      "makeup",
+      "piercings",
+      "food",
+      "text",
+      "logos",
+      "watermarks"
+    ]
+  },
+  "context_awareness": {
+    "real_world_logic": true,
+    "physics_accurate": true
+  },
+  "output_specs": {
+    "use_case": "tongue texture documentation, medical macro detail, anatomical study",
+    "success_criteria": "clearly visible papillae and natural surface moisture with realistic organic texture"
+  }
+}
