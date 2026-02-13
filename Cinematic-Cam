@@ -1,0 +1,27 @@
+{
+  "scene": {
+    "subject": "athletic woman holding smartwatch",
+    "emotion": "confident and empowered"
+  },
+  "camera": {
+    "lens": "85mm anamorphic",
+    "aperture": "f1.8",
+    "depth_of_field": "shallow",
+    "sensor": "full frame"
+  },
+  "lighting": {
+    "style": "cinematic commercial lighting",
+    "key_light": "soft diffused",
+    "rim_light": "subtle edge light",
+    "contrast": "medium-high controlled"
+  },
+  "quality": {
+    "resolution": "4k",
+    "texture_detail": "ultra realistic skin texture",
+    "dynamic_range": "high"
+  },
+  "color": {
+    "grading": "premium commercial LUT",
+    "skin_tones": "natural"
+  }
+}
