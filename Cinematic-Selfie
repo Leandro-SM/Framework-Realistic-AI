@@ -1,0 +1,30 @@
+{
+  "video_type": "ugc testimonial",
+  "subject": {
+    "age": 23,
+    "gender": "female",
+    "appearance": "natural, minimal makeup, casual home clothes",
+    "expression": "friendly, authentic, slight smile"
+  },
+  "camera": {
+    "device": "smartphone front camera",
+    "angle": "handheld selfie angle",
+    "movement": "slight natural hand shake",
+    "resolution": "1080p",
+    "aspect_ratio": "9:16"
+  },
+  "lighting": {
+    "type": "natural window light",
+    "time_of_day": "afternoon",
+    "intensity": "soft"
+  },
+  "environment": {
+    "location": "bedroom",
+    "background": "slightly messy but realistic"
+  },
+  "style": {
+    "skin_texture": "natural pores visible",
+    "imperfections": "subtle skin texture, natural shadows",
+    "no_cinematic_grading": true
+  }
+}
