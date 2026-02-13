@@ -1,0 +1,64 @@
+{
+  "model": "gemini-2.5-flash-image",
+  "task_type": "generation",
+  "priority": {
+    "primary": "Ultra-detailed close-up image of human skin",
+    "secondary": "Capture realistic texture, pores, and fine lines"
+  },
+  "task": "generate_image",
+  "subject": {
+    "main": "human skin",
+    "attributes": {
+      "physical": "natural skin with visible pores, fine lines, and texture",
+      "pose": "neutral, natural state",
+      "expression": "not applicable"
+    }
+  },
+  "environment": {
+    "setting": "macro photography studio",
+    "time": "controlled lighting session",
+    "weather": "not applicable",
+    "lighting": {
+      "type": "artificial",
+      "direction": "side and slightly top",
+      "quality": "soft, diffused lighting that reveals texture without harsh shadows"
+    }
+  },
+  "style": {
+    "artistic": "photorealistic",
+    "camera": {
+      "angle": "extreme close-up",
+      "lens": "macro",
+      "aperture": "shallow depth of field"
+    },
+    "mood": "clean, intimate, clinical realism",
+    "color_palette": "natural beige and warm skin tones"
+  },
+  "technical": {
+    "resolution": "high",
+    "aspect_ratio": "9:16",
+    "quality": "maximum"
+  },
+  "constraints": {
+    "framing": "extreme macro crop with skin filling most of the vertical frame",
+    "focus": "sharp focus on pores and fine lines with gentle falloff toward edges",
+    "exclusions": [
+      "heavy makeup",
+      "foundation",
+      "skin smoothing",
+      "retouching",
+      "filters",
+      "text",
+      "logos",
+      "watermarks"
+    ]
+  },
+  "context_awareness": {
+    "real_world_logic": true,
+    "physics_accurate": true
+  },
+  "output_specs": {
+    "use_case": "skin texture realism study, editorial macro detail, cosmetic research visuals",
+    "success_criteria": "clearly visible natural pores and fine skin texture with realistic lighting"
+  }
+}
