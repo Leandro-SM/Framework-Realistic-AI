@@ -33,7 +33,6 @@
 <p align="center">
   <img src="images/pose_angle.png" width="400"/>
   <img src="images/pose_angle1.png" width="400"/>
-  <img src="images/pose_angle2.png" width="400"/>
 </p>
 
 
