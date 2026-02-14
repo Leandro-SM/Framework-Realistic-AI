@@ -8,4 +8,4 @@
 
 # Boca
   <img src="images/lip.png" width="385"/>
-  <img src="images/tongue.png" width="385"/>
+  <img src="images/tongue.png" width="385" height="380"/>
